@@ -3,10 +3,11 @@
 
 ## Relationship between API and SDK
 
-#### An API is simply an interface that allows software to interact with other software. APIs come in many shapes and sizes. The browser that a reader would likely use to peruse the Nordic APIs website uses a variety of API sets in order to convert user commands into usable functions, request data from servers, render that data into a viewable format for the user, and validate the performance of their requests.
+### What is an API?
 
-#### Even something as simple as copying and pasting on a computer utilizes an API. Copying text converts a keystroke into a command, data is stored into RAM on the clipboard utilizing an API, the data is then carried from one application to another using that same API, and finally, data is rendered when pasting using yet another API.
+#### API is an interface that allows software programs to interact with each other. It defines a set of rules that should be followed by the programs to communicate with each other. APIs generally specify how the routines, data structures, etc. should be defined in order for two applications to communicate. APIs differ in the functionality provided by them. There are general APIs that provide library functionalities of a programming language such as the Java API. There are also APIs that provides specific functionalities such as the Google Maps API. There are also language dependent APIs, which could only be used by a specific programming language. Furthermore, there are language independent APIs that could be used with several programming languages. APIs needs to be implemented very carefully by exposing only the required functionality or data to the outside, while keeping the other parts of the application inaccessible. Usage of APIs has become very popular in the internet. It has become very common to allow some of the functionality and data through an API to the outside on the Web. This functionality can be combined to offer an improved functionality to the users.
+
+### What is an SDK?
 
 
-https://www.kairos.com/blog/what-s-the-difference-between-an-api-and-a-sdk
-https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/
+
