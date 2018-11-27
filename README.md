@@ -1,6 +1,6 @@
 # Application-Programming-Interface
 
-# Relationship between API and SDK
+## Relationship between API and SDK
 
 ## What is an API?
 
