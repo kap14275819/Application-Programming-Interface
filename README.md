@@ -23,6 +23,39 @@ API is an interface that allows software programs to interact with each other, w
 
 
 
+## API
+#### HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Book App</title>
+  </head>
+  <body>
+    <h1> API Book<h1>
+    <input id="search" type="text" autocomplete=off>
+    <button id="button" type="button" onclick="getbook()">search</button>
+  <hr>
+    <div id="result"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
+    
+#### JSON
+    function getbook()
+{
+// getElementById t
+document.getElementById("result").innerHTML=""
+
+console.log(search)
+
+fetch("https://www.googleapis.com/books/v1/volumes?q=harry")
+.then(function(response){return response.json();})
+.then(function(data)
+{
+  console.log(data)
+});
+}
+
 
 
 MuleSoft [online]. (2018). Available from: <https://www.mulesoft.com/resources/api/what-is-an-api>. [Accessed 27/11/18].
