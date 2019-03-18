@@ -13,7 +13,7 @@
 
 ### What is the difference between API and SDK?
 
-#### SDKs and APIs are commonly used to integrate important features like security and communications into the web and mobile apps. Each of them provide similar benefits but they also have specific differences. So an SDK is kind of like a box of cake mix. It contains pre-built functionality that then allows the cake to be baked faster and easier. ....
+#### SDKs and APIs are commonly used to integrate important features like security and communications into the web and mobile apps. Each of them provide similar benefits but they also have specific differences. So an SDK is kind of like a box of cake mix. It contains pre-built functionality that then allows the cake to be baked faster and easier. 
 
 #### An APl on the other hand is more like the recipe that is used to bake the cake. It has the set of instructions but also gives some room to be creative within the recipe. The result will still be the same, but without having any knowledge/experience it will be more difficult and will have some uninteded consequences.
 
