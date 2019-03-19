@@ -15,14 +15,15 @@
 
 #### SDKs and APIs are commonly used to integrate important features like security and communications into the web and mobile apps. Each of them provide similar benefits but they also have specific differences. So an SDK is kind of like a box of cake mix. It contains pre-built functionality that then allows the cake to be baked faster and easier. 
 
-#### Whilst an API is more like the recipe that is used to bake the cake. It has the set of instructions but also gives some room to be creative within the recipe. The result will still be the same, but without having any knowledge/experience it will be more difficult and will have some unintended consequences. Additionally, with the cake mix you are also able to create other items instead of just a cake such as pancakes, but also you are able to add different flavours; the same way each SDK is a software toolset which is sepcially designed for a given language or platform to interact with the underlying services. Even though there are appropriate uses for each, there are distinctive benefits of an SDK over an API. Such as, easier integration, faster time to market, build-in security, and cost savings. 
+#### Whilst an API is more like the recipe that is used to bake the cake. It has the set of instructions but also gives some room to be creative within the recipe. The result will still be the same, but without having any knowledge/experience it will be more difficult and will have some unintended consequences. Additionally, with the cake mix you are also able to create other items instead of just a cake such as pancakes, but also you are able to add different flavours; the same way each SDK is a software toolset which is sepcially designed for a given language or platform to interact with the underlying services. Even though there are appropriate uses for each, there are distinctive benefits of an SDK over an API. Such as, easier integration, built-in security, and cost savings. 
 
 ### Easier Integration
-#### Firstly, with pre-build functionality, integrating an SDK into an app will be so much easier. SDKs are able to simplify standard processed such as creating authorisation signatures or parsing SMS messages in a native language or platform, which then helps greatly with the complexity of the integration. Developers do not need to have a huge amount of experience on the SDKs topic to be able to use it, this is because most SDKs possess the programming tools, documentation and sample code needed to ensure that they can be continuously plugged in to the apps.
+#### Firstly, with pre-build functionality, integrating an SDK into an app will be so much easier. SDKs are able to simplify standard processed such as creating authorisation signatures or parsing SMS messages in a native language or platform, which then helps greatly with the complexity of the integration. Developers do not need to have a huge amount of experience on the SDKs topic to be able to use it, this is because most SDKs possess the programming tools, documentation and sample code needed to ensure that they can be continuously plugged in to the apps. With the easy integration this also allows the developers to launch their apps faster without having to spend time and money on developing complex infrastructures or processes. 
 
-#### APIs on the other hand require much more depth of knowledge of the product that is being integrated which is also included with the development of the software for integrating the API. Hence, adding on more research and development complexity.
+#### APIs on the other hand require much more depth of knowledge of the product that is being integrated which is also included with the development of the software for integrating the API. Hence, adding on more research and development complexity. API integration will not be as easy as SDKs so the process will take longer since it can demand expetise in several areas of functionality based on the technology in use. 
 
-###
+### Security
+#### 
 
 
 
@@ -39,3 +40,4 @@ Techterms [online]. (2018). Available from: <https://techterms.com/definition/sd
 
 Ben Virdee-Chapman (2017). What's the Difference Between an API and a SDK? [online]. Available from: <https://www.kairos.com/blog/what-s-the-difference-between-an-api-and-a-sdk>. [Accessed 27/11/18].
 
+What’s the Difference Between an SDK and an API? [online]. (2018). Available from: <https://squareup.com/townsquare/sdk-vs-api>. [Accessed 27/11/18].
